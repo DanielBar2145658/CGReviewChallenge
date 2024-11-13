@@ -61,7 +61,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Amp: 0.075
+    - _Amp: 0.055
     - _BumpScale: 1
     - _Cutoff: 0.5
     - _DetailNormalMapScale: 1
@@ -77,7 +77,7 @@ Material:
     - _RimPower: 0.5
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
-    - _Speed: 100
+    - _Speed: 200
     - _SrcBlend: 1
     - _UVSec: 0
     - _ZWrite: 1
